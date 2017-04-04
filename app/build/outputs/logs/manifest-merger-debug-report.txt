@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/jainil/.android/build-cache/fc758ffd60d0db9df21111a3d8b607b7a3c56955/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/jainil/.android/build-cache/ac6338196dda97c13dc4ccbfaeb386458cdddfb8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/jainil/.android/build-cache/87a58800c60616101f533adfd4681de6e34a0112/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/jainil/.android/build-cache/1ff0dc55227782b40a1e6c9c6cea11da5fb4cd02/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/jainil/.android/build-cache/6fd78867f584d71ffdf1f941d45a7860ad666983/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/jainil/.android/build-cache/5aae585d1c28bec12a80a4e5e290ef168e782f59/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/jainil/.android/build-cache/a46ceee5d3e08a7d89c3087813ed2bd0eab9f8b9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/jainil/.android/build-cache/d72df78635c4bc77521b8c93a95525bab0722cea/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/jainil/.android/build-cache/2018de7ae52eda892a010e3340c39131fafc8ff9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jainil/.android/build-cache/6b982910ee341312be0da2c1e9e8e87dac189261/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.hattricktech.mydrive.MainActivity
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/jainil/.android/build-cache/fc758ffd60d0db9df21111a3d8b607b7a3c56955/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /home/jainil/.android/build-cache/ac6338196dda97c13dc4ccbfaeb386458cdddfb8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/jainil/.android/build-cache/87a58800c60616101f533adfd4681de6e34a0112/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/jainil/.android/build-cache/1ff0dc55227782b40a1e6c9c6cea11da5fb4cd02/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/jainil/.android/build-cache/6fd78867f584d71ffdf1f941d45a7860ad666983/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/jainil/.android/build-cache/5aae585d1c28bec12a80a4e5e290ef168e782f59/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/jainil/.android/build-cache/a46ceee5d3e08a7d89c3087813ed2bd0eab9f8b9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/jainil/.android/build-cache/d72df78635c4bc77521b8c93a95525bab0722cea/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /home/jainil/.android/build-cache/2018de7ae52eda892a010e3340c39131fafc8ff9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jainil/.android/build-cache/6b982910ee341312be0da2c1e9e8e87dac189261/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/jainil/.android/build-cache/fc758ffd60d0db9df21111a3d8b607b7a3c56955/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jainil/AndroidStudioProjects/MyDrive/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /home/jainil/.android/build-cache/fc758ffd60d0db9df21111a3d8b607b7a3c56955/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/jainil/.android/build-cache/ac6338196dda97c13dc4ccbfaeb386458cdddfb8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/jainil/.android/build-cache/87a58800c60616101f533adfd4681de6e34a0112/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/jainil/.android/build-cache/1ff0dc55227782b40a1e6c9c6cea11da5fb4cd02/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/jainil/.android/build-cache/6fd78867f584d71ffdf1f941d45a7860ad666983/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/jainil/.android/build-cache/5aae585d1c28bec12a80a4e5e290ef168e782f59/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/jainil/.android/build-cache/a46ceee5d3e08a7d89c3087813ed2bd0eab9f8b9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/jainil/.android/build-cache/d72df78635c4bc77521b8c93a95525bab0722cea/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/jainil/.android/build-cache/2018de7ae52eda892a010e3340c39131fafc8ff9/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/jainil/.android/build-cache/fc758ffd60d0db9df21111a3d8b607b7a3c56955/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /home/jainil/.android/build-cache/fc758ffd60d0db9df21111a3d8b607b7a3c56955/output/AndroidManifest.xml:26:9-47

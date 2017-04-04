@@ -1,0 +1,7 @@
+#Fri Mar 31 15:09:32 IST 2017
+base.0=/home/jainil/AndroidStudioProjects/MyDrive/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0349a53cd1f6d28aee297a53d5f523a375c8e81d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jainil/AndroidStudioProjects/MyDrive/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e7c71eb5216fbf499a00739e55564697113dab1/classes.dex
+base.1=/home/jainil/AndroidStudioProjects/MyDrive/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e7c71eb5216fbf499a00739e55564697113dab1
+file.0=/home/jainil/AndroidStudioProjects/MyDrive/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0349a53cd1f6d28aee297a53d5f523a375c8e81d/classes.dex
